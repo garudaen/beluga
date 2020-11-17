@@ -8,9 +8,9 @@ package feishu
 import (
 	"fmt"
 	"io/ioutil"
-	"luffy/utils/feishu/core/body"
-	"luffy/utils/feishu/core/json"
-	"luffy/utils/feishu/core/urls"
+	"github.com/garudaen/beluga/feishu/core/body"
+	"github.com/garudaen/beluga/feishu/core/json"
+	"github.com/garudaen/beluga/feishu/core/urls"
 	"net/http"
 	"strings"
 
